@@ -11,10 +11,10 @@ I'm a passionate developer currently studying Computer Science at the University
 
 ---
 
-### 🌟 Skills & Interests
+###  Skills & Interests
 
 - **Languages:** Java (current focus), Python, JavaScript, C, more!
-- **Areas:** Software development, Information Security, Open Source
+- **Areas:** Software development, Information Security, Open Source, AI
 - **Interests:** Learning new tech, contributing to communities, exploring cybersecurity
 
 ---
